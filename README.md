@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @SandeepSaini9
-- 👀 I’m interested in ...App Development
-- 🌱 I’m currently learning ...Full Time Flutter Development
-- 💞️ I’m looking to collaborate on ...Flutter Development
-- 📫 How to reach me 
-- Mail me at sandeepsaini74608@gmail.com
-- www.linkedin.com/in/sandeep-saini-6a32801b3/
+# Flutter Responsive Web Portfolio
 
-- [![SandeepSaini's github stats](https://github-readme-stats.vercel.app/api?username=SandeepSaini9&count_private=true&show_icons=true&theme=gruvbox_light&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+Star⭐ the repo if you like what you see😉.
 
--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepSaini9&theme=gruvbox_light)](https://github.com/SandeepSaini9/github-readme-stats)
+Web App: https://www.agnelselvan.com/#/
+
+#### How to Install?
+```
+git clone https://github.com/AgnelSelvan/Flutter-Web-Portfolio.git
+cd Flutter-Web-Portfolio
+flutter packages get
+flutter run -d chrome
+```
+
+#### Looks
+<img src="./outputs/gif/desktop.gif" />
+<img width="150" src="./outputs/gif/mobile.gif" />
+
+
+#### Special Thanks
+Inspired by **mhmzdev**
