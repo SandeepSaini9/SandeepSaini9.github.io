@@ -37,16 +37,6 @@ class ServiceSection extends StatelessWidget {
       color: Colors.green[400]!,
     ),
     NameIconColor(
-      title: "Web Development",
-      iconData: Icons.web,
-      color: Colors.yellow[400]!,
-    ),
-    NameIconColor(
-      title: "Technical Blog Writer",
-      iconData: Icons.article,
-      color: Colors.blue[400]!,
-    ),
-    NameIconColor(
       title: "Github Open Source",
       iconData: Icons.code,
       color: Colors.orange[400]!,
@@ -88,7 +78,7 @@ class ServiceSection extends StatelessWidget {
               GestureDetector(
                 onTap: () {
                   Utilty.openUrl(
-                      "https://github.com/AgnelSelvan/AgnelSelvan.github.io/raw/main/assets/files/Agnel-Selvan.pdf");
+                      "https://github.com/SandeepSaini9");
                 },
                 child: MouseRegion(
                   cursor: SystemMouseCursors.click,

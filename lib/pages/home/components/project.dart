@@ -131,7 +131,7 @@ class ProjectSection extends StatelessWidget {
                                       margin: const EdgeInsets.all(10),
                                       width: 25,
                                       color:
-                                          e.logo == AppConstants.razorPayImage
+                                          e.logo == AppConstants
                                               ? Colors.white
                                               : null,
                                       height: 25,
