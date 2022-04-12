@@ -3,10 +3,10 @@ My website portfolio
 
 ## Screenshots:
 ### Computer View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio.PNG)
+![alt text]()
 
 ### Mobile View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio_mobile.PNG)
+![alt text]()
 
 ## Author
-* Mohd. Ali Solanki (https://youtube.com/AliSolanki)
+* Sandeep Saini
